@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .NEWS one-word domains still available to buy.
 
-This dataset contains 3,724 .NEWS one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,717 .NEWS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.NEWS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=news-oneword-domains&utm_content=description.top) (3,727) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.NEWS one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.news        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.news        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.news  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.news      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.news  | available | 58       | 7%     | 9      |           |         |         |
