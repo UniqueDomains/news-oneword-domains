@@ -1,22 +1,22 @@
-# Available .NEWS One-Word Domains (5,621,926)
+# Available .NEWS One-Word Domains (7,624)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C616%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C627%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C624%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .news one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .news one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,616-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,616 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 7,627 rows · **Live catalog:** 7,624 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/news`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NEWS one-word domain 
 
 ### Files
 
-- `news.csv` — public CSV extract (7,616 rows)
-- `news.json` — public JSON extract (7,616 rows)
+- `news.csv` — public CSV extract (7,627 rows)
+- `news.json` — public JSON extract (7,627 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| potato.news    | available | $17.99    | —             | 76             | 35     | 6      | name.com         |
+| yard.news      | available | $17.99    | $43.99        | 80             | 35     | 4      | name.com         |
 | cross.news     | resell    | —         | —             | 74             | 99     | 5      | Porkbun LLC      |
 | sex.news       | premium   | $650      | $1,300        | 80             | 59     | 3      | namecheap        |
-| yard.news      | available | $17.99    | $43.99        | 80             | 34     | 4      | name.com         |
+| potato.news    | available | $17.99    | —             | 76             | 35     | 6      | name.com         |
 | edge.news      | resell    | —         | —             | 72             | 99     | 4      | Spaceship, Inc.  |
 | cloud.news     | premium   | $1,300    | $1,300        | 70             | 59     | 5      | namecheap        |
 | nimble.news    | available | $17.99    | $43.99        | 94             | 33     | 6      | name.com         |
@@ -76,14 +76,14 @@ print(df.head())
 | abstract.news  | available | $9.99     | $39.99        | 108            | 32     | 8      | Porkbun LLC      |
 | boss.news      | resell    | —         | —             | 76             | 73     | 4      | GoDaddy.com, LLC |
 | digital.news   | premium   | $1,250    | $1,250        | 100            | 50     | 7      | name.com         |
-| rescue.news    | available | $17.99    | —             | 74             | 32     | 6      | name.com         |
+| amber.news     | available | $17.99    | —             | 66             | 32     | 5      | name.com         |
 | code.news      | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc      |
 | create.news    | premium   | $123.75   | —             | 89             | 49     | 6      | name.com         |
-| amber.news     | available | $17.99    | —             | 66             | 32     | 5      | name.com         |
-| pay.news       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc      |
-| event.news     | premium   | $1,300    | $1,300        | 96             | 48     | 5      | namecheap        |
 | zest.news      | available | $17.99    | —             | 83             | 31     | 4      | name.com         |
-| echo.news      | resell    | —         | —             | 68             | 58     | 4      | GoDaddy.com, LLC |
+| pay.news       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc      |
+| law.news       | premium   | $1,300    | $1,300        | 82             | 46     | 3      | namecheap        |
+| lovely.news    | available | $17.99    | $43.99        | 72             | 31     | 6      | name.com         |
+| echo.news      | resell    | —         | —             | 68             | 57     | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,616-row public sample | 5,621,926 live domains                           |
+| 7,627-row public sample | 7,624 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
