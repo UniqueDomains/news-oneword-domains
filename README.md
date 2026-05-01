@@ -1,10 +1,10 @@
-# Available .NEWS One-Word Domains (9,927)
+# Available .NEWS One-Word Domains (10,390)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C927%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C390%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .news one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,927 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,390 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,927 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,390 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/news`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| courses.news   | available | $17.99    | —             | 82             | 24     | 7      | name.com                                                  |
-| quick.news     | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC                                               |
-| travelers.news | premium   | $280      | $560          | 58             | 61     | 9      | namecheap                                                 |
-| stadia.news    | available | $17.99    | —             | 66             | 22     | 6      | name.com                                                  |
-| spectra.news   | resell    | —         | —             | 62             | 34     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Cats.news      | premium   | $69.30    | $138.60       | 59             | 33     | 4      | namecheap                                                 |
-| Allie.news     | available | $41.48    | —             | 72             | 21     | 5      | namecheap                                                 |
-| gods.news      | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc                                               |
-| heroes.news    | premium   | $140      | $280          | 68             | 29     | 6      | namecheap                                                 |
-| bubbles.news   | available | $17.99    | —             | 72             | 21     | 7      | name.com                                                  |
-| promise.news   | resell    | —         | —             | 76             | 25     | 7      | Porkbun LLC                                               |
-| dogs.news      | premium   | $280      | $560          | 76             | 28     | 4      | namecheap                                                 |
-| plans.news     | available | $17.99    | —             | 60             | 20     | 5      | name.com                                                  |
-| les.news       | resell    | —         | —             | 60             | 21     | 3      | Dynadot Inc                                               |
-| brands.news    | premium   | $140      | $280          | 62             | 28     | 6      | namecheap                                                 |
-| clients.news   | available | $17.99    | —             | 58             | 20     | 7      | name.com                                                  |
-| everybody.news | resell    | —         | —             | 64             | 15     | 10     | Sav.com, LLC - 45                                         |
-| systems.news   | premium   | $140      | $280          | 46             | 27     | 7      | namecheap                                                 |
-| knows.news     | available | $17.99    | —             | 48             | 20     | 5      | name.com                                                  |
-| whocares.news  | resell    | —         | —             | 46             | 12     | 9      | GoDaddy.com, LLC                                          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| courses.news      | available | $17.99    | —             | 82             | 24     | 7      | name.com                                                  |
+| quick.news        | resell    | —         | —             | 72             | 43     | 5      | Porkbun LLC                                               |
+| travelers.news    | premium   | $280      | $560          | 58             | 61     | 9      | namecheap                                                 |
+| Allie.news        | available | $41.48    | —             | 72             | 21     | 5      | namecheap                                                 |
+| spectra.news      | resell    | —         | —             | 62             | 34     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Cats.news         | premium   | $69.30    | $138.60       | 59             | 33     | 4      | namecheap                                                 |
+| bubbles.news      | available | $17.99    | —             | 72             | 21     | 7      | name.com                                                  |
+| gods.news         | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc                                               |
+| heroes.news       | premium   | $140      | $280          | 68             | 29     | 6      | namecheap                                                 |
+| plans.news        | available | $17.99    | —             | 60             | 20     | 5      | name.com                                                  |
+| promise.news      | resell    | —         | —             | 76             | 25     | 7      | Porkbun LLC                                               |
+| brands.news       | premium   | $140      | $280          | 62             | 28     | 6      | namecheap                                                 |
+| clients.news      | available | $17.99    | —             | 58             | 20     | 7      | name.com                                                  |
+| gamers.news       | resell    | —         | —             | 62             | 24     | 6      | GoDaddy.com, LLC                                          |
+| systems.news      | premium   | $140      | $280          | 46             | 27     | 7      | namecheap                                                 |
+| knows.news        | available | $17.99    | —             | 48             | 20     | 5      | name.com                                                  |
+| pros.news         | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC                                          |
+| doctors.news      | premium   | $280      | $560          | 56             | 26     | 7      | namecheap                                                 |
+| lostandfound.news | available | $17.99    | —             | 64             | 19     | 14     | name.com                                                  |
+| les.news          | resell    | —         | —             | 60             | 21     | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,927 live domains                               |
+| 1,000-row public sample | 10,390 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
