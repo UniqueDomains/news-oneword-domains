@@ -83,7 +83,7 @@ print(df.head())
 | pros.news         | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC                                          |
 | doctors.news      | premium   | $280      | $560          | 56             | 26     | 7      | namecheap                                                 |
 | lostandfound.news | available | $17.99    | —             | 64             | 19     | 14     | name.com                                                  |
-| les.news          | resell    | —         | —             | 60             | 21     | 3      | Dynadot Inc                                               |
+| les.news          | resell    | —         | —             | 60             | 20     | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
