@@ -834,6 +834,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4dd070b6-f928-4a55-b95f-df934c209774,stepin.news,available,17.99,,74,8,7,name.com,,
 4dd44f5f-5f69-465d-ad48-a633a4263b40,woes.news,available,17.99,,46,4,4,name.com,,
 4e0bed3c-6d93-421f-a457-66096478446d,fruitvinegar.news,available,17.99,,50,1,13,name.com,,
+4e536ca3-c61e-4cd4-af8e-a58fb86280a4,diamonds.news,premium,69.3,138.6,89,19,8,namecheap,,
 4e652dc4-6846-46a3-af4d-5131144dda69,getwith.news,available,17.99,,74,4,8,name.com,,
 4e834da1-b756-430c-9acb-c0796a628660,somuchfor.news,available,17.99,,46,0,11,name.com,,
 4e8a402e-b50a-4218-88ab-ab01ce71ba21,fittoaT.news,available,41.48,,64,1,10,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d617033-c7dd-4979-b275-943da1709214,drying.news,available,17.99,,68,6,6,name.com,,
 5d6fefeb-8296-437b-bec3-84ed979be9e4,motorinn.news,available,17.99,,74,1,9,name.com,,
 5d97a166-a204-48b9-b773-2800a10f1d0e,flightattendants.news,available,17.99,,40,2,17,name.com,,
-5db90fe3-8b5c-4b09-b0a4-fc6d7cff66d3,resorted.news,available,17.99,,50,1,8,name.com,,
