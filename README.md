@@ -70,10 +70,10 @@ print(df.head())
 | bubbles.news   | available | $17.99    | —             | 72             | 21     | 7      | name.com                                                  |
 | spectra.news   | resell    | —         | —             | 62             | 34     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 | Cats.news      | premium   | $69.30    | $138.60       | 59             | 33     | 4      | namecheap                                                 |
-| courses.news   | available | $17.99    | —             | 82             | 20     | 7      | name.com                                                  |
-| gods.news      | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc                                               |
+| plans.news     | available | $17.99    | —             | 60             | 21     | 5      | name.com                                                  |
+| gods.news      | resell    | —         | —             | 72             | 29     | 4      | Dynadot Inc                                               |
 | heroes.news    | premium   | $140      | $280          | 68             | 29     | 6      | namecheap                                                 |
-| plans.news     | available | $17.99    | —             | 60             | 20     | 5      | name.com                                                  |
+| courses.news   | available | $17.99    | —             | 82             | 20     | 7      | name.com                                                  |
 | promise.news   | resell    | —         | —             | 76             | 25     | 7      | Porkbun LLC                                               |
 | brands.news    | premium   | $140      | $280          | 62             | 28     | 6      | namecheap                                                 |
 | clients.news   | available | $17.99    | —             | 58             | 20     | 7      | name.com                                                  |
