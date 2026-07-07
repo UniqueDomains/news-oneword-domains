@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .news one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,408 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,408 domains · **Median ask:** $52.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,408 domains · **Median ask:** $57.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/news`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/news`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NEWS one-word domain 
 
 ### Files
 
-- `news.csv` — public CSV extract (1,000 rows)
-- `news.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `news.csv`, public CSV extract (1,000 rows)
+- `news.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| Allie.news     | available | $41.48    | —             | 72             | 21     | 5      | namecheap                                                 |
-| quick.news     | resell    | —         | —             | 72             | 43     | 5      | Porkbun LLC                                               |
-| travelers.news | premium   | $280      | $560          | 58             | 61     | 9      | namecheap                                                 |
-| bubbles.news   | available | $17.99    | —             | 72             | 21     | 7      | name.com                                                  |
-| spectra.news   | resell    | —         | —             | 62             | 34     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Cats.news      | premium   | $69.30    | $138.60       | 59             | 33     | 4      | namecheap                                                 |
-| plans.news     | available | $17.99    | —             | 60             | 21     | 5      | name.com                                                  |
-| gods.news      | resell    | —         | —             | 72             | 29     | 4      | Dynadot Inc                                               |
-| heroes.news    | premium   | $140      | $280          | 68             | 29     | 6      | namecheap                                                 |
-| courses.news   | available | $17.99    | —             | 82             | 20     | 7      | name.com                                                  |
-| promise.news   | resell    | —         | —             | 76             | 25     | 7      | Porkbun LLC                                               |
-| brands.news    | premium   | $140      | $280          | 62             | 28     | 6      | namecheap                                                 |
-| clients.news   | available | $17.99    | —             | 58             | 20     | 7      | name.com                                                  |
-| gamers.news    | resell    | —         | —             | 62             | 24     | 6      | GoDaddy.com, LLC                                          |
-| systems.news   | premium   | $140      | $280          | 46             | 27     | 7      | namecheap                                                 |
-| knows.news     | available | $17.99    | —             | 48             | 20     | 5      | name.com                                                  |
-| pros.news      | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC                                          |
-| doctors.news   | premium   | $280      | $560          | 56             | 26     | 7      | namecheap                                                 |
-| gobeyond.news  | available | $17.99    | —             | 76             | 19     | 9      | name.com                                                  |
-| les.news       | resell    | —         | —             | 60             | 20     | 3      | Dynadot Inc                                               |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| mop.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| fin.news  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
+| are.news  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| per.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| out.news  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| dog.news  | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                    |
+| tks.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| tea.news  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| eat.news  | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
+| bang.news | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| woo.news  | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC                             |
+| off.news  | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
+| brag.news | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
+| asia.news | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                 |
+| rep.news  | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                    |
+| chew.news | available | $17.99    | —             | medium         | low    | 4      | name.com                                     |
+| back.news | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| vie.news  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| crap.news | available | $17.99    | —             | medium         | low    | 4      | name.com                                     |
+| bags.news | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .news domains. The set spans broad dictionary terms, abstract words, and punchier options such as hotshot.news, discipline.news, musthave.news, cake.news, and environmental.news. For founders, the main question is whether the word is clear, memorable, and credible with a .news ending. For investors, the key test is whether the term is commercially relevant enough to support resale demand at the asking level. The median ask is $52.18, which keeps entry price low, but quality still varies sharply by word strength, specificity, and possible trademark exposure.
+This list gathers 10,408 one-word .news domain names built from everyday compound words such as jollyalong, scotchtape, and weddingcake. Rather than technical or industry jargon, most names read as plain, memorable phrases suited to media outlets, newsletters, blogs, or niche content brands. The median asking price across the set is $57.62, keeping most listings accessible for quick comparison. Because .news is a topical rather than mainstream extension, availability of clean one-word names stays higher, though buyers should weigh brand recognition and long-term renewal costs when choosing one.
 
-- All results are one-word domains on the .news extension
-- Median ask across this selection is $52.18
-- Favor words that read naturally with .news
-- Check trademark overlap before choosing a term
+- 10,408 one-word .news domains available for review
+- Median asking price of $57.62 across the set
+- Compound everyday words like sportsday, weddingcake, storyteller
+- Updated daily so pricing stays current
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
