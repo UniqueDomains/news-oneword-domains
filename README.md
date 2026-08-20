@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .news one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,932 domains · **Median ask:** $37.67 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/news`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,11 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| out.news  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | lvi.news  | available | $8.98     | $41.48        | low            | low    | 3      | namecheap                                    |
 | fin.news  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
 | are.news  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
 | mop.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| out.news  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | dog.news  | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                    |
 | per.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
 | tea.news  | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                              |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
