@@ -49,7 +49,7 @@ ee66bed2-ad83-48c8-b1e5-1a52f1a98322,male.news,premium,69.3,138.6,medium,low,4,n
 3f214de7-db9c-4c9c-9cb7-c160f82da48e,corny.news,available,17.99,43.99,medium,low,5,name.com,,
 bcb9fd8c-a02e-447f-bf26-22b5f2f6f42a,aloud.news,available,17.99,,high,low,5,name.com,,
 595908a6-e8b4-4d5b-943a-6f91da942b00,bull.news,resell,,,medium,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",30/01/2024 15:15,30/01/2027 15:15
-b4f84f3b-292e-4f6d-b689-a01facd765cb,support.news,premium,69.3,138.6,high,medium,7,namecheap,,
+b4f84f3b-292e-4f6d-b689-a01facd765cb,support.news,premium,64.35,128.7,medium,medium,7,namecheap,,
 6cdc971d-01e5-4cdb-8fea-c7d9c63b0d4a,chime.news,available,17.99,,high,low,5,name.com,,
 93422dfe-8e1b-4823-b838-8303f43d5cae,stereotype.news,available,17.99,,high,low,10,name.com,,
 9af6fa82-4e3a-4043-a130-cb349840c2f1,abducens.news,available,8.98,41.48,low,low,8,namecheap,,
@@ -176,7 +176,7 @@ c1cdf841-f534-48d2-9f55-a38e120e65d7,gothere.news,available,17.99,,medium,low,8,
 7c8126d6-7448-48ee-991e-cd50228d69a9,placating.news,available,8.98,41.48,low,low,9,namecheap,,
 0a5b24a7-e90f-4ff3-89ee-904e4e0de8ed,woo.news,resell,,,medium,high,3,"GoDaddy.com, LLC",21/04/2022 05:52,21/04/2027 05:52
 5461b7ae-b1ac-4ddf-9dfb-368960c12f86,anymore.news,available,17.99,,medium,low,7,name.com,,
-bce88bd9-a085-4135-8447-2246075bce5d,cloud.news,premium,1300,1300,high,medium,5,namecheap,,
+bce88bd9-a085-4135-8447-2246075bce5d,cloud.news,premium,650,1300,medium,medium,5,namecheap,,
 ba69a472-b41c-4eae-8290-9f3fbbf02da8,meaning.news,available,,,high,low,7,,,
 74889b27-6f3b-44bd-ae37-2b4d4da72bee,haircut.news,available,17.99,,high,low,7,name.com,,
 2ccedbdb-689c-4df0-b621-96e63ca2e675,wacky.news,resell,,,high,low,5,"Sav.com, LLC - 16",26/03/2026 15:15,26/03/2027 15:15
@@ -336,7 +336,7 @@ ccd71aff-545d-4bd0-ab9a-fa9e0638b8a5,enable.news,available,17.99,,high,low,6,nam
 f78ead63-f98b-4df5-9014-17d7357ef8f8,nineteenth.news,available,8.98,41.48,low,low,10,namecheap,,
 5184e8ae-1065-45eb-a9f2-5829009f0f40,walkingstick.news,available,17.99,,high,low,13,name.com,,
 f0230405-84b3-4497-9f99-0e5f0a2c3829,awing.news,available,8.98,41.48,low,low,5,namecheap,,
-5672c24f-6cec-49ba-8235-f6f1488ae073,vitamin.news,premium,280,560,high,low,7,namecheap,,
+5672c24f-6cec-49ba-8235-f6f1488ae073,vitamin.news,premium,260,520,medium,low,7,namecheap,,
 5a58ff3e-41fa-4d0d-ab73-47fd7bc1e062,characters.news,available,17.99,,medium,low,10,name.com,,
 677f2995-88bf-4355-9e62-94d72b153563,equally.news,available,17.99,,high,low,7,name.com,,
 27c7991e-941a-4578-8e1f-fec1679b74d0,inundated.news,available,8.98,41.48,low,low,9,namecheap,,
@@ -614,7 +614,7 @@ ff957bfc-3ccf-4a42-84e1-6497357effa7,before.news,resell,,,high,low,6,Tucows Doma
 db15feaa-e32f-4fa6-9f25-ec992adbbd51,sensory.news,available,17.99,,high,low,7,name.com,,
 f4c92153-5b68-47c0-a099-9a3d01cb7de0,coverup.news,available,17.99,,medium,low,8,name.com,,
 d62a5033-2c7b-4cca-8901-6f1ee6556f6e,ribald.news,available,8.98,41.48,low,low,6,namecheap,,
-c228ce6a-604a-4e14-867a-080edd2dcaed,content.news,premium,500,500,high,low,7,name.com,,
+c228ce6a-604a-4e14-867a-080edd2dcaed,content.news,premium,260,520,medium,medium,7,namecheap,,
 9cf2ee7f-4b1f-4c23-97cd-84b7fad9111f,greenpepper.news,available,17.99,,high,low,12,name.com,,
 e9935a35-0771-4121-8207-8e2c3d41be58,corrected.news,available,17.99,43.99,high,low,9,name.com,,
 30f0cc41-ee86-455a-a926-7e6f895c9ef3,owing.news,available,17.99,,low,low,5,name.com,,
@@ -663,7 +663,6 @@ d91313b1-a332-44fc-b22a-cbdd900f6b7f,blacktie.news,available,17.99,,medium,low,9
 4961eb55-bcaa-4f81-a966-1969420c88a7,passionate.news,available,17.99,,high,low,10,name.com,,
 33f8c7f4-93ba-4b16-8fe5-ecd9163c44da,hover.news,available,17.99,,medium,low,5,name.com,,
 571ac9b9-1767-4227-b5bb-b21ee4aa48f9,closer.news,available,17.99,,high,low,6,name.com,,
-b7469f13-46e9-42d7-a867-dc53cd5fd42e,tea.news,resell,,,medium,medium,3,"Spaceship, Inc.",01/10/2020 10:01,01/10/2026 10:01
 7d239c95-2008-41d8-806f-fa0437099f99,trader.news,premium,700,1400,high,low,6,namecheap,,
 cc6a3447-17fe-4204-9508-8707cdc97d70,achenial.news,available,8.98,41.48,low,low,8,namecheap,,
 a23157a2-9745-4c5f-ab6c-f5d86479f07e,timeabout.news,available,17.99,,low,low,10,name.com,,
@@ -999,3 +998,4 @@ c621d3d7-f1f2-49d5-b19f-ada001b37b21,mothafuggah.news,available,17.99,,medium,lo
 4b5c9e6f-8c68-41bf-a381-eeba11485abb,selfconfident.news,available,17.99,,medium,low,14,name.com,,
 f2c5efb0-3393-4aa4-906b-78eefb2b6eaa,noticed.news,available,17.99,,high,low,7,name.com,,
 88bb4ad1-aad8-4efa-98b3-c4329db850c4,flood.news,available,17.99,,medium,low,5,name.com,,
+b11af479-4e5c-4272-9763-e3b83b519b59,unimportant.news,available,17.99,,medium,low,11,name.com,,
