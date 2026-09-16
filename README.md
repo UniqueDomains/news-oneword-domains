@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .news one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,508 domains · **Median ask:** $29.52 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/news`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| out.news    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| off.news    | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
-| period.news | available | $17.99    | —             | high           | low    | 6      | name.com                                     |
-| lvi.news    | available | $8.98     | $41.48        | low            | low    | 3      | namecheap                                    |
-| fin.news    | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
-| are.news    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| mop.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| dog.news    | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                    |
-| per.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| woo.news    | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC                             |
-| eat.news    | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
-| tks.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| asia.news   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                 |
-| alar.news   | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
-| back.news   | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| rep.news    | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                    |
-| arum.news   | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
-| bags.news   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC                                 |
-| vie.news    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| awed.news   | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| lvi.news  | available | $8.98     | $41.48        | low            | low    | 3      | namecheap                                    |
+| fin.news  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
+| are.news  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| mop.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| out.news  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| dog.news  | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                    |
+| per.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| woo.news  | resell    | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC                             |
+| eat.news  | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
+| tks.news  | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
+| asia.news | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                 |
+| off.news  | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
+| alar.news | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
+| back.news | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| rep.news  | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                    |
+| arum.news | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
+| bags.news | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC                                 |
+| vie.news  | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| awed.news | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
+| bold.news | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
