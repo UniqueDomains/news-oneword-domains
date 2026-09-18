@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 db437ab2-c203-473d-9359-30f370d57054,lambent.news,available,8.98,41.48,low,low,7,namecheap,,,
 fc8e657f-9996-4887-b8c6-8223d5f152d6,aberrant.news,available,8.98,41.48,low,low,8,namecheap,,,
-a95b91a3-bc6a-4bef-9e3d-f813d13a43ae,like.news,premium,1250,1250,high,low,4,name.com,,,
+a95b91a3-bc6a-4bef-9e3d-f813d13a43ae,like.news,premium,1107,1107,high,low,4,namesilo,,,17/09/2026 10:12
 eed8e564-dbcc-46ce-853f-b69f55252720,moveabout.news,available,17.99,,low,low,10,name.com,,,
 3e894313-fedf-4e2f-b288-76cda9682c60,spine.news,available,17.99,,high,low,5,name.com,,,
 0651573e-0d94-4b72-a188-b0ba6f52cd89,setsail.news,available,17.99,,medium,low,8,name.com,,,
@@ -110,7 +110,7 @@ e8c7057c-5509-4ab7-8c66-b9d0e1cc53f5,profession.news,available,17.99,,high,low,1
 4af39396-5ade-4586-b033-f35abd1525a2,prenuptial.news,available,17.99,,high,low,10,name.com,,,
 675e4266-931a-4752-8bc5-b5fca378158b,operahouse.news,available,17.99,,high,low,11,name.com,,,
 f8a80683-d4ff-4dbc-a9eb-d83bce31ac45,prone.news,available,17.99,,medium,low,5,name.com,,,
-4c5afcca-be44-48a4-9ea1-2c03989a41e7,pickuptruck.news,available,17.99,,medium,low,13,name.com,,,
+4c5afcca-be44-48a4-9ea1-2c03989a41e7,pickuptruck.news,available,14.49,32.49,low,low,13,namesilo,,,17/09/2026 14:44
 f75d1bec-e683-442d-8457-4ec7af026b27,arabic.news,resell,,,high,low,6,"NameCheap, Inc.",15/07/2015 03:40,15/07/2026 03:40,
 220f3ed2-a0c5-47a3-aea8-f3e038578d74,heck.news,available,17.99,,medium,low,4,name.com,,,
 eb9394b6-be29-48c9-914b-8457d1876236,broadcast.news,premium,700,1400,high,low,9,namecheap,,,
@@ -610,7 +610,7 @@ ceff8349-5736-4464-98ba-21cf54491a7f,anginose.news,available,8.98,41.48,low,low,
 e71cfb21-5c46-4853-ab55-173963bdf371,asaresultof.news,available,17.99,,medium,low,14,name.com,,,
 4367ec9d-c361-4d3c-b563-1bd9bfdb4664,modernistcuisine.news,available,17.99,,high,low,17,name.com,,,
 fd28b941-e506-4948-a0a0-c4f03319434c,uncomfortably.news,available,17.99,,medium,low,13,name.com,,,
-ff957bfc-3ccf-4a42-84e1-6497357effa7,before.news,resell,,,high,low,6,Tucows Domains Inc.,07/07/2021 13:44,07/07/2026 13:44,
+ff957bfc-3ccf-4a42-84e1-6497357effa7,before.news,resell,,,high,low,6,Tucows Domains Inc.,07/07/2021 13:44,07/07/2027 13:44,17/09/2026 20:33
 db15feaa-e32f-4fa6-9f25-ec992adbbd51,sensory.news,available,17.99,,high,low,7,name.com,,,
 f4c92153-5b68-47c0-a099-9a3d01cb7de0,coverup.news,available,17.99,,medium,low,8,name.com,,,
 d62a5033-2c7b-4cca-8901-6f1ee6556f6e,ribald.news,available,8.98,41.48,low,low,6,namecheap,,,09/08/2026 02:15
