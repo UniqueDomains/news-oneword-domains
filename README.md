@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .news one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,781 domains · **Median ask:** $29.93 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/news`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| period.news | available | $17.99    | —             | high           | low    | 6      | name.com                                     |
-| bang.news   | available | $17.99    | —             | high           | low    | 4      | name.com                                     |
-| smooth.news | premium   | $140      | $280          | high           | low    | 6      | namecheap                                    |
-| career.news | premium   | $700      | $1,400        | high           | low    | 6      | namecheap                                    |
-| enough.news | available | —         | —             | high           | low    | 6      | —                                            |
-| lvi.news    | available | $8.98     | $41.48        | low            | low    | 3      | namecheap                                    |
-| fin.news    | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
-| are.news    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
-| mop.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| woo.news    | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                             |
-| dog.news    | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                    |
-| per.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| back.news   | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
-| eat.news    | premium   | $280      | $560          | high           | low    | 3      | namecheap                                    |
-| tks.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                     |
-| bags.news   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC                                 |
-| off.news    | premium   | $260      | $520          | low            | low    | 3      | namecheap                                    |
-| alar.news   | available | $8.98     | $41.48        | low            | low    | 4      | namecheap                                    |
-| boom.news   | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| rep.news    | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| support.news   | premium   | $64.35    | $128.70       | high           | medium | 7      | namecheap                                           |
+| beautiful.news | premium   | $260      | $520          | high           | low    | 9      | namecheap                                           |
+| ale.news       | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bee.news       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
+| are.news       | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| atp.news       | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bid.news       | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| des.news       | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                           |
+| cry.news       | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| don.news       | resell    | —         | —             | high           | low    | 3      | NameSilo, LLC                                       |
+| dog.news       | premium   | $700      | $1,400        | high           | low    | 3      | namecheap                                           |
+| lvi.news       | available | $8.98     | $41.48        | high           | low    | 3      | namecheap                                           |
+| fig.news       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
+| eat.news       | premium   | $280      | $560          | high           | low    | 3      | namecheap                                           |
+| mop.news       | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| fin.news       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
+| flu.news       | premium   | $280      | $560          | high           | low    | 3      | namecheap                                           |
+| per.news       | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| hum.news       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                     |
+| mon.news       | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
