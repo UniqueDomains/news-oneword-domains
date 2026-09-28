@@ -1,10 +1,10 @@
-# Available .NEWS One-Word Domains (19,299)
+# Available .NEWS One-Word Domains (19,719)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C299%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C719%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .news one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,299 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,719 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,299 domains · **Median ask:** $45.53 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 19,719 domains · **Median ask:** $46.01 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/news`
@@ -79,10 +79,10 @@ print(df.head())
 | hen.news    | available | $14.49    | $32.49        | high           | low    | 3      | namesilo                                            |
 | key.news    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                         |
 | sue.news    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
-| nnw.news    | available | $8.98     | $41.48        | medium         | low    | 3      | namecheap                                           |
+| kwh.news    | available | $14.49    | $32.49        | medium         | low    | 3      | namesilo                                            |
 | kin.news    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
 | ammo.news   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
-| oft.news    | available | $8.98     | $41.48        | high           | low    | 3      | namecheap                                           |
+| nnw.news    | available | $8.98     | $41.48        | medium         | low    | 3      | namecheap                                           |
 | wes.news    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,299 live domains                        |
+| 1,000-row public sample | 19,719 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
