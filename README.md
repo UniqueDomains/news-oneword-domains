@@ -1,10 +1,10 @@
-# Available .NEWS One-Word Domains (19,719)
+# Available .NEWS One-Word Domains (21,259)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C719%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C259%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .news one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,719 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,259 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,719 domains · **Median ask:** $46.01 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 21,259 domains · **Median ask:** $47.34 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/news`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| atp.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
-| figure.news | resell    | $17.99    | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| ark.news    | premium   | $512      | $512          | high           | medium | 3      | namesilo                                            |
 | but.news    | available | $14.49    | $32.49        | high           | low    | 3      | namesilo                                            |
-| bag.news    | resell    | —         | —             | high           | low    | 3      | Edomains LLC                                        |
-| cpi.news    | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                           |
+| figure.news | resell    | $17.99    | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| act.news    | premium   | $650      | $1,300        | high           | medium | 3      | namecheap                                           |
 | cue.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
 | bet.news    | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                      |
-| due.news    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| ark.news    | premium   | $512      | $512          | high           | medium | 3      | namesilo                                            |
 | ear.news    | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
 | big.news    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
-| nsa.news    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| lin.news    | premium   | $51.43    | $102.67       | high           | low    | 3      | spaceship                                           |
 | hen.news    | available | $14.49    | $32.49        | high           | low    | 3      | namesilo                                            |
 | key.news    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                         |
-| sue.news    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
-| kwh.news    | available | $14.49    | $32.49        | medium         | low    | 3      | namesilo                                            |
+| nsa.news    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| iec.news    | available | $7.96     | $26.08        | medium         | low    | 3      | spaceship                                           |
 | kin.news    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
+| sue.news    | premium   | $99.50    | $138.60       | high           | low    | 3      | unstoppable                                         |
+| kwh.news    | available | $14.49    | $32.49        | medium         | low    | 3      | namesilo                                            |
+| wes.news    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
 | ammo.news   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
 | nnw.news    | available | $8.98     | $41.48        | medium         | low    | 3      | namecheap                                           |
-| wes.news    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
+| bugs.news   | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,719 live domains                        |
+| 1,000-row public sample | 21,259 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
+| Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEWS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
